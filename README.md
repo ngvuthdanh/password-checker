@@ -1,2 +1,2 @@
 # password-checker
-A simple password strength and breach checker tool.
+A simple password strength and breach checker tool
